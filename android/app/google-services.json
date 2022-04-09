@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863206392518",
+    "project_id": "getcli-todo",
+    "storage_bucket": "getcli-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863206392518:android:041b3523e7e79f26558dc7",
+        "android_client_info": {
+          "package_name": "com.cks.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863206392518-ogd0b815lvma69ku39sk73ru5v9oehg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cks.todo_app",
+            "certificate_hash": "4737ddbf992dfcb2ec8e1bbc171b988da87a2756"
+          }
+        },
+        {
+          "client_id": "863206392518-b82eel3lrkjs66s0q507ijbab08i98h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXPv5Z3fI1itUUt-OkaS97pwVhE4wkp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863206392518-b82eel3lrkjs66s0q507ijbab08i98h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
